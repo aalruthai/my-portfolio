@@ -2,7 +2,10 @@
 This is my professional portfolio. It uses AWS and ReactJS
 
 ## Technologies Used
-
+Choco
 Git and GitHub
 SSH
-Tree
+HTML
+CSS
+Font awesome
+Google Fonts
