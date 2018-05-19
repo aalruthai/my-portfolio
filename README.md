@@ -8,4 +8,4 @@ SSH
 HTML
 CSS
 Font awesome
-Google Fonts1
+Google Fonts
