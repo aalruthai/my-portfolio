@@ -1,5 +1,5 @@
-# Amr Alruthai Portfolio
-This is my professional portfolio. It uses AWS and ReactJS
+# Amr Alruthai (Portfolio Training)
+This portfolio is used for trying aws codebuild and codepipeline. It uses AWS and ReactJS
 
 ## Technologies Used
 Choco
